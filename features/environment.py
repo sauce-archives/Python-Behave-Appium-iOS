@@ -16,7 +16,7 @@ def before_scenario(context, scenario):
     "deviceName": os.environ.get('deviceName'),
     "browserName": "",
     "platformVersion": "8.4",
-    "appiumVersion": "1.4.11",
+    "appiumVersion": "1.5.3",
     "deviceOrientation": "portrait"
   }
   
